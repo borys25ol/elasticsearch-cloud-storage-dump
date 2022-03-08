@@ -1,0 +1,10 @@
+.ve
+.idea
+.DS_Store
+__pycache__
+*.pyc
+logs
+.env
+.vscode
+.coverage
+google_credentials.json
